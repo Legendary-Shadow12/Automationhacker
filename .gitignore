@@ -1,0 +1,6 @@
+/data/relay.json
+/data/*.tmp
+/data/master.key
+/node_modules/
+.env
+/relay-source.zip
